@@ -27,7 +27,7 @@ nav a:hover{
 
 
 nav a.active{
-    background-color: var(--color-bg);
-    color: var(--color-light);
+    background-color: var(--color-primary);
+    color: var(--color-bg);
 }
 /* ? better comments i do want you to help me out there to find a way that could help me in programming */

@@ -66,17 +66,18 @@ header{
 }
 
 /* ======== MEDIA QUERIES (medium screen) ==== */
-@media screen and (max-wdith:1024px) {
+@media screen and (max-width:1024px) {
     header{
       height: 68vh;
     }
 }
 /* ======== MEDIA QUERIES (small screen) ==== */
-@media screen and (max-wdith:1024px) {
+@media screen and (max-width:600px) {
     header{
       height: 100vh;
     }
     .header__socials, .scroll__down{
         display: none;
     }
+    
 }
