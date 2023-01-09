@@ -2,7 +2,8 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import Me from '../../images/me.jpg'
-import Nki from '../../images/nki.png'
+// import Nki from '../../images/nki.png'
+import Done from '../../images/done.png'
 
 import HeaderSocials from './HeaderSocials'
 const Header = () => {
@@ -15,7 +16,7 @@ const Header = () => {
          <CTA/>  
          <HeaderSocials/>
          <div className="me">
-          <img src={Nki} alt="me" />
+          <img src={Done} alt="me" />
          </div>
          <a href="#contact" className='scroll__down'>Scroll Down</a>
        </div>
