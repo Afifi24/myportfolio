@@ -2,7 +2,7 @@ import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
-// import {AiOutlineWhatsApp} from 'react-icons/ai'
+import {AiOutlineWhatsApp} from 'react-icons/ai'
 import emailjs from 'emailjs-com'
 import  { useRef } from 'react';
 const Contact = () => {

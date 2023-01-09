@@ -1,8 +1,8 @@
 import React from 'react'
 import './about.css'
-// import {FaAward} from 'react-icons/fa'
-// import {FiUsers} from 'react-icons/fi'
-// import {AiOutlineFolderOpen} from 'react-icons/ai'
+import {FaAward} from 'react-icons/fa'
+import {FiUsers} from 'react-icons/fi'
+import {AiOutlineFolderOpen} from 'react-icons/ai'
 import Trainer from '../../images/trainer1.jpg'
 const About = () => {
   return (
